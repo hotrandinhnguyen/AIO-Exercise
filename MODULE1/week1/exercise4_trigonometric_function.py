@@ -60,5 +60,6 @@ def exercise4():
     else:
         return
 
+
 if __name__=='__main__':
     exercise4()

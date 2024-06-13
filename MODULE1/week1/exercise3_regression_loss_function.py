@@ -39,5 +39,6 @@ def exercise3():
         loss_name = input("Input loss name MAE| MSE| RMSE:")
         regression_loss_function (num_sample ,loss_name)
 
+
 if __name__=='__main__':
     exercise3()

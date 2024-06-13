@@ -26,5 +26,6 @@ def exercise5():
         return
     MD_nRE(y, y_hat, n, p)
 
+
 if __name__=='__main__':
     exercise5()

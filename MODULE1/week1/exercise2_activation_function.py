@@ -47,6 +47,7 @@ def activation_function():
         else: 
             print(f"{a} is not supported")
         
+        
 
 if __name__=='__main__':
     activation_function()
