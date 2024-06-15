@@ -6,7 +6,9 @@ def count_words_in_string(string : str):
     else:
       dic[i] = 1
   return dic
-string = "Happiness"
-print(count_words_in_string(string))
-string ="smiles"
-print(count_words_in_string(string))
+
+if __name__ == "__main__":
+    string = "Happiness"
+    print(count_words_in_string(string))
+    string ="smiles"
+    print(count_words_in_string(string))
