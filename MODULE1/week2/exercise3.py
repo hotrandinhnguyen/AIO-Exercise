@@ -14,4 +14,5 @@ def count_word_in_file(file):
 if __name__ == "__main__":
     file = "MODULE1/week2/P1_data.txt"
     print(count_word_in_file(file))
+    
 
